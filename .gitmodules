@@ -1,3 +1,6 @@
 [submodule "hw2/smol-shell"]
 	path = hw2/smol-shell
 	url = https://github.com/GrislyMe/smol-shell
+[submodule "hw3/smol-shell"]
+	path = hw3/smol-shell
+	url = https://github.com/GrislyMe/smol-shell
